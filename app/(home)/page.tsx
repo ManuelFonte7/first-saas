@@ -1,10 +1,11 @@
-import Image from "next/image";
 import Hero from "./_components/hero";
+import Pricing from "./_components/pricing";
 
 export default function Home() {
   return (
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
+      <main className="">
         <Hero />
+        <Pricing />
       </main>
       
   );

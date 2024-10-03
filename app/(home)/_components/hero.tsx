@@ -15,7 +15,7 @@ const hero = () => {
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                             </svg>
 
-                            <span className="mx-2">Clean and Simple Layout</span>
+                            <span className="mx-2">Professionalità e puntualità</span>
                         </p>
 
                         <p className="flex items-center -mx-2 text-gray-700 dark:text-gray-200">
@@ -23,7 +23,7 @@ const hero = () => {
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                             </svg>
 
-                            <span className="mx-2">Just Copy Paste Codeing</span>
+                            <span className="mx-2">Tecnologie all'avanguardia</span>
                         </p>
 
                         <p className="flex items-center -mx-2 text-gray-700 dark:text-gray-200">
@@ -31,14 +31,14 @@ const hero = () => {
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                             </svg>
 
-                            <span className="mx-2">Easy to Use</span>
+                            <span className="mx-2">Prezzi competitivi</span>
                         </p>
                     </div>
                 </div>
 
                     <form className="flex flex-col lg:flex-row mt-10">                        
                         <button type="button" className="h-10 px-4 py-2 m-1 text-white transition-colors duration-200 transform bg-blue-500 rounded-md hover:bg-blue-400 focus:outline-none focus:bg-blue-400">
-                            Contattaci
+                            Prenota una consulenza gratuita
                         </button>
                     </form>
             </div>
